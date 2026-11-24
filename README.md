@@ -50,4 +50,7 @@ I retrained the model and it did not change at all it instaed got worse and only
 
 
 
+<img width="1680" height="907" alt="Screenshot 2026-11-23 203235" src="https://github.com/user-attachments/assets/fd5af394-b0ac-4ec4-a19b-d5f6753837a5" />
+<img width="1392" height="949" alt="Screenshot 2026-11-23 204236" src="https://github.com/user-attachments/assets/01b36913-b1da-4cd9-942c-41612d1a6ee8" />
+
 
